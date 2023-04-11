@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Loan MIS</string>
+    <string name="home">Home</string>
+    <string name="my_installments">My Installments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+    <string name="type_message_here">type message here</string>
+    <string name="home_">Home</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="commit">commit</string>
+    <string name="help">Help</string>
+    <string name="this_application_is_an_example_and_has_been_used_to_teach_programming_it_is_also_owned_by_samir_sulemani_with_phone_number_255675839840_this_application_is_special_for_those_who_are_learning_software_development_and_so_its_source_code_is_provided_for_free_for_the_purpose_of_learning_and_not_for_business_the_following_technologies_are_used_java_php_mysql_xml">This application is an example and has been used to teach programming. It is also owned by Samir Sulemani with phone number +255675839840. This application is special for those who are learning software development and so its source code is provided for free for the purpose of learning and not for business. the following technologies are used: JAVA, PHP, MYSQL, XML</string>
+</resources>
